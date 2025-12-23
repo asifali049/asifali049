@@ -1,16 +1,67 @@
-## Hi there 👋
+## Hi , I'm Asif Ali 👋
 
-<!--
-**asifali049/asifali049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=asifali&color=blue)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Full Stack Developer (Frontend-First)
+**TypeScript | Next.js | React | Node.js | MERN**
+
+---
+
+### 👨‍💻 About Me
+- 🎯 Frontend **Full-Stack Developer**
+- ⚡ Strong focus on **TypeScript-first development**
+- 🧠 Specialized in **Next.js (App Router, SSR, SEO, Performance)**
+- 🔁 Comfortable with **Frontend → Backend → Deployment flow**
+- 🌱 Currently building **scalable full-stack web applications**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend (Primary Strength)
+- **TypeScript (Advanced)**
+- **Next.js (App Router, Server Actions)**
+- React.js (Hooks, Context, Performance Optimization)
+- Tailwind CSS, CSS Modules
+- Redux Toolkit / Zustand
+
+#### Backend
+- Node.js, Express.js
+- REST APIs, Authentication (JWT)
+- Basic GraphQL understanding
+
+#### Database
+- MongoDB (Mongoose)
+- PostgreSQL (Basic)
+
+#### DevOps & Tools
+- Git & GitHub
+- AWS (EC2, S3 – Basics)
+- Vercel (Next.js Deployments)
+- Postman, Docker (Basic)
+
+---
+
+### 📌 Current Focus
+- Full-Stack architecture using **Next.js + TypeScript**
+- SEO-optimized & high-performance apps
+- Backend integration & cloud deployment
+- Preparing for **Full-Stack / Frontend Engineer roles**
+
+---
+
+### 📊 GitHub Stats
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifali&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Most Used Languages
+![Top Langs](https://github.com/asifali049/JavaScript-Exersises.git)
+
+---
+
+### 🔗 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/asif-ali-2185b4216
+- 📝 Twitter: https://x.com/AsifAli84793052
+- 🧠 GitHub: https://github.com/asifali049
