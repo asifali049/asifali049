@@ -53,8 +53,6 @@
 ### 🔥 Most Used Languages
 
 
----
-
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
