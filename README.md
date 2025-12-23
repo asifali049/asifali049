@@ -1,8 +1,5 @@
 ## Hi , I'm Asif Ali 👋
 
-![ link view]( https://linkedin.com/in/asif-ali-2185b4216)
-![ link view]( https://x.com/AsifAli84793052)
-![ link view](https://github.com/asifali049)
 
 
 ### 🚀 Full Stack Developer (Frontend-First)
@@ -54,7 +51,7 @@
 ---
 
 
-<p align="left">
+<p align="between">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
